@@ -1,0 +1,6 @@
+"./Drivers/Src/stm32f303xx_GPIO_driver.o"
+"./Drivers/Src/stm32f303xx_SPI.o"
+"./Src/006SPI_TX.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f303vctx.o"
